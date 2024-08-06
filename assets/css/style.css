@@ -85,7 +85,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
 }
-/* Removed repeated code by grouping selectors with equal properties with a comma*/
+/* Removed repeated elements by grouping selectors with equal properties with a comma*/
 .benefit-lead,
 .benefit-brand,
 .benefit-cost {

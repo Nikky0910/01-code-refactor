@@ -101,7 +101,7 @@ p {
     margin-bottom: 32px;
     color: #ffffff;
 } */
- 
+
 .search-engine-optimization h2,
 .online-reputation-management h2,
 .social-media-marketing h2 {
@@ -204,7 +204,7 @@ p {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
+/* replaced h2 selector for h4 selector*/
 .footer h4 {
     font-size: 20px;
 }
